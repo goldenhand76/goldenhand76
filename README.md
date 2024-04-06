@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @R-Goldenhand
-- 👀 I’m interested in IoT & Machine Learning
-- 🌱 I’m currently learning .Net Core & Microservices
-- 💞️ I’m looking to collaborate on High tech companies
-- 🤖 Here's my discord channel:
+I’m Reza Working from home and I love open-source project collaboration.
+
+- If u're interested in DevOps and Data analysis Here's my discord channel you can join me :
 https://discord.com/invite/B4nm3ZsMeV
 
 <img src='img/Untitled.svg' width='250'>
