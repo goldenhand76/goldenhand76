@@ -4,6 +4,8 @@ Join me on this wild ride of bytes, bugs, and brilliant ideas! 🚀
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/goldenhand)
 
+![Kaggle Stats](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+
 **If you're interested in DevOps and Data analysis Here's my discord channel you can join me:**
 
 [<img src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' width='150' height='60'>](https://discord.com/invite/B4nm3ZsMeV)
