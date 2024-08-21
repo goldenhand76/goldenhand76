@@ -5,7 +5,7 @@ Join me on this wild ride of bytes, bugs, and brilliant ideas! 🚀
 
 *Here is the most recent projects that I've done :*
 
-## Project: APADANA
+## Project: [APADANA](https://github.com/goldenhand76/APADANA)
 ### Description: 
 Developed a comprehensive system using Django to handle incoming data from devices, real-time monitoring, and notifications, incorporating various architectural patterns and technologies.
 
